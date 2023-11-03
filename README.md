@@ -1,7 +1,3 @@
-
-<img src="https://imgur.com/npkT3Tw.png" width="350" title="chatgpt">
-
-
 <h2 align="center">
   ChatGPT Clone • 🤖
 </h2>
