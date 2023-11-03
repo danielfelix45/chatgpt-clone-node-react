@@ -26,7 +26,7 @@ $ npm install
 $ npm start
 ```
 
-Feito isso o serviço de backend estará funcionando na porta :5000. 
+Feito isso o serviço de backend estará funcionando na porta:5555. 
 
 ### Como eu faço para executar o serviço do frontend?
 
